@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Åse Sagebakken
-- 🌱 I’m currently taking a bachelor's degree in Computer Technology at the University of Stavanger
+- 🌱 Bachelor's degree in Computer Science at the University of Stavanger
 - 📫 How to reach me: aase.sagebakken@hotmail.com
